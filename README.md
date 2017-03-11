@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/10/2017
 
 ### Student Name:  
-(First and Last Name)
+Gregory Gruse
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we created a photo gallery site using javascript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://archiebobyo.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to access elements by id, tag name, class, name, and selector
+2. We learned how to acces element content, CSS properties, and attributes
+3. We learned how to add and remove document nodes
